@@ -1,0 +1,18 @@
+<html>
+<head>
+<title></title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<div class="title">
+<p>THE WORD</p>
+</div>
+<div class="menu">
+<ul>
+<li><a href="#">BIBLE</a></li>
+<li><a href="#">SERVICES</a></li>
+<li><a href="#">ABOUT US</a></li>
+<li><a href="#">CONTACT</a></li>
+</ul>
+</body
+</html>
